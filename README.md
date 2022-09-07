@@ -14,13 +14,9 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 3. Atributos para personalização das tags utilizadas (class, alt, id etc)
 4. Tags de estilo para relacionamento do documento CSS.
 5. A importância do nomes de classes explicativas para o CSS.
-6. Responsividade da página para três principais medidas:
+6. Responsividade da página usando 'Media Queries'.
 
-<ul>
-	<li>Mobile</li>
-	<li>Web aprox. 576px</li>
-	<li>Web aprox. 900px</li>
-</ul>
+
 
 
 
