@@ -18,8 +18,8 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 
 <ul>
 	<li>Mobile</li>
-	<li>Mobile</li>
-	<li>Mobile</li>
+	<li>Web aprox. 576px</li>
+	<li>Web aprox. 900px</li>
 </ul>
 
 
