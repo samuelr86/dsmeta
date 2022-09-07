@@ -18,13 +18,13 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 7. Dividindo em três tamanhos: 
 <br><br>
 
-<h3>Mobile</h3>
+<h3>1. Mobile</h3>
 
 <img width="300px" src="https://user-images.githubusercontent.com/69654078/188918852-8af5dce0-3246-4454-98c5-4061c1fc6d0d.png"><br>
-<h3>Web 576px</h3>
+<h3>2. Web 576px</h3>
 
 <img width="300px" src="https://user-images.githubusercontent.com/69654078/188921800-6dfd4633-e57b-4401-a146-50ab20292f59.png"><br>
-<h3>Web 992px</h3>
+<h3>3. Web 992px</h3>
 
 <img width="300px" src="https://user-images.githubusercontent.com/69654078/188921981-203826df-a1fd-4257-ba6c-05b647724813.png">
 
