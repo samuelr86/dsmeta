@@ -15,10 +15,19 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 4. Tags de estilo para relacionamento do documento CSS.
 5. A importância do nomes de classes explicativas para o CSS.
 6. Responsividade da página usando 'Media Queries'.
+7. Dividindo em três tamanhos: 
+<br><br>
+<li>Mobile</li><br>
 
+![mobile](https://user-images.githubusercontent.com/69654078/188762394-a7257b31-7b43-4895-b0a8-7d9bd2da031f.png)
 
+<li>Web aprox. 576px</li><br>
 
+![web576](https://user-images.githubusercontent.com/69654078/188762401-170d0139-2d69-4848-b7bd-d5fc7c1ef837.png)
 
+<li>Web aprox. 900px</li><br>
+
+![web992](https://user-images.githubusercontent.com/69654078/188762404-3a429f85-fc1d-430f-8058-71afb604dd03.png)
 
 
 ## 🎨 Layout
