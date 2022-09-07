@@ -33,7 +33,7 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 
 
 As seguintes ferramentas foram usadas na construção do projeto: <br>
-
+<bR>
 ![IDE-VSCode-blue](https://user-images.githubusercontent.com/69654078/188758823-61e4dce0-c21e-44b6-a566-f46dec92ba16.svg)<br>
 ![Lang-HTML-red](https://user-images.githubusercontent.com/69654078/188759060-bdc7b903-8d41-4617-b4c8-e4691bdd6a4b.svg)<br>
 ![Lang-CSS-blue](https://user-images.githubusercontent.com/69654078/188759069-80963eae-18c9-42aa-a394-c06bae78dc33.svg)
