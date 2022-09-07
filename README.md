@@ -14,11 +14,12 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 3. Atributos para personalização das tags utilizadas (class, alt, id etc)
 4. Tags de estilo para relacionamento do documento CSS.
 5. A importância do nomes de classes explicativas para o CSS.
-6. Responsividade da página para três principais medidas
+6. Responsividade da página para três principais medidas:
+
 <ul>
 	<li>Mobile</li>
-	<li>Web ~ 576px</li>
-	<li>Web ~ 900px</li>
+	<li>Mobile</li>
+	<li>Mobile</li>
 </ul>
 
 
@@ -35,9 +36,10 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 ## 🛠 Tecnologias
 
 
-As seguintes ferramentas foram usadas na construção do projeto:
-![IDE-VSCode-blue](https://user-images.githubusercontent.com/69654078/188758823-61e4dce0-c21e-44b6-a566-f46dec92ba16.svg)
-![Lang-HTML-red](https://user-images.githubusercontent.com/69654078/188759060-bdc7b903-8d41-4617-b4c8-e4691bdd6a4b.svg)
+As seguintes ferramentas foram usadas na construção do projeto: <br>
+
+![IDE-VSCode-blue](https://user-images.githubusercontent.com/69654078/188758823-61e4dce0-c21e-44b6-a566-f46dec92ba16.svg)<br>
+![Lang-HTML-red](https://user-images.githubusercontent.com/69654078/188759060-bdc7b903-8d41-4617-b4c8-e4691bdd6a4b.svg)<br>
 ![Lang-CSS-blue](https://user-images.githubusercontent.com/69654078/188759069-80963eae-18c9-42aa-a394-c06bae78dc33.svg)
 
 
