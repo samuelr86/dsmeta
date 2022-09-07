@@ -32,7 +32,7 @@ Foi desenvolvido uma página estática em HTML e CSS. Os assuntos abordados nest
 
 ## 🎨 Layout
 
-<p>O layout da aplicação está disponível no Figma:   
+<p>O layout da aplicação está disponível no Figma:  <br> 
 <a href="https://www.figma.com/file/EN1zFtk4eY3Jgmpgi9YaMG/DSMeta1">
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a></p>
